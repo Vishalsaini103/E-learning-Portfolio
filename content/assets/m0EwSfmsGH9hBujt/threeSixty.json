@@ -1,0 +1,32 @@
+{
+  "version": "3.129.38633.0",
+  "course_id": "5viPSVm8Z4q",
+  "title": "Spot the phish",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5jvorOZZlNQ",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6DYn42w0764",
+      "title": "Slide 2",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2180,
+    "height": 1198
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
